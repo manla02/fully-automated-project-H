@@ -18,3 +18,4 @@ We know how to use work with each and Git, Jenkins independently. What if you wa
    - *Build:*
      - Root POM:`pom.xml`
      - Goals and options: `clean install package`
+     ...
