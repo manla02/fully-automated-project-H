@@ -10,4 +10,4 @@ With this repository I will be able to setup a DevOps CI/CD Pipeline using
 - Ansible
 - Docker &
 - Kubernetes
-
+...
